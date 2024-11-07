@@ -33,6 +33,6 @@ const styles = StyleSheet.create({
   child: {
       borderWidth: 2,
       textAlign: 'center',
-      fontSize: 24,
+      fontSize: 24
   }
 });
